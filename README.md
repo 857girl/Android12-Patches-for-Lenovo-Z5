@@ -1,6 +1,6 @@
 # Android12-Patches-for-Lenovo-Z5
 
-中文繁體 ［English］
+中文繁體 [English](https://github.com/857girl/Android12-Patches-for-Lenovo-Z5/blob/main/en.md)
 
 為Lenovo z5設備提供在Android12+（Gsi） 上的漏洞修復補丁
 
