@@ -42,7 +42,7 @@ Superior os （414+）
 
 # 設備貢獻者
 
-［@IamapencilEk］（https://github.com/iamapencilek）
+[@IamapencilEk](https://github.com/iamapencilek)
 
 
 
