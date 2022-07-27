@@ -54,3 +54,7 @@ Superior os （414+）
 
 [Volte](https://github.com/857girl/Android12-Patches-for-Lenovo-Z5/blob/main/Volte.md)
 
+# find bugs?
+
+[Welcome](https://github.com/857girl/Android12-Patches-for-Lenovo-Z5/issues)
+
