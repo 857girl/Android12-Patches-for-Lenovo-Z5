@@ -40,6 +40,10 @@ Awaken Os（414）
 
 Superior os （414+）
 
+# 設備貢獻者
+
+@IamapencilEk
+
 
 
 
