@@ -44,5 +44,11 @@ Superior os （414+）
 
 [@IamapencilEk](https://github.com/iamapencilek)
 
+# patches
 
+[Vendor](https://github.com/IamapencilEk/Keystore-for-jd2018/releases/tag/1.0)
+
+[Edpf,use magisk flash](https://wwn.lanzoub.com/ic8SB085u04d)
+
+[Volte]
 
