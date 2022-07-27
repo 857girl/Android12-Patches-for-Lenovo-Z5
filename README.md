@@ -1,5 +1,7 @@
 # Android12-Patches-for-Lenovo-Z5
 
+中文繁體 ［English］
+
 為Lenovo z5設備提供在Android12+（Gsi） 上的漏洞修復補丁
 
 # Android12+基本功能在Lenovo Z5上的運行情況
