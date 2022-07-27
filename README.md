@@ -50,5 +50,5 @@ Superior os （414+）
 
 [Edpf,use magisk flash](https://wwn.lanzoub.com/ic8SB085u04d)
 
-[Volte]
+[Volte](https://github.com/857girl/Android12-Patches-for-Lenovo-Z5/blob/main/Volte.md)
 
